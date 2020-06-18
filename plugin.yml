@@ -1,0 +1,6 @@
+name: "TransferFast"
+description: "A Plugin supported by Stargate-Atlantis to transfer servers"
+version: 0.1
+api: [3.12.6]
+author: HakanKayaa
+main: Transfer/Main
