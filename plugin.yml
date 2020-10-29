@@ -1,6 +1,10 @@
-name: "TransferFast"
-description: "A Plugin supported by Stargate-Atlantis to transfer servers"
+name: SwitchLobby
+main: lobby\main
+author: RequiemDevs
 version: 0.1
-api: [3.12.6]
-author: HakanKayaa
-main: Transfer/Main
+api: [3.15.1]
+description: "Transfer around stargate-clients with 1 command"
+
+commands:
+  lobby:
+    description: "Transfer lobby /lobby [name]"
